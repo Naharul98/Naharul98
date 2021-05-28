@@ -23,9 +23,9 @@
 
 <details>
  <summary><b>Backend Development</b></summary>
- <a href="https://nodejs.org" target="_blank"> <img src="images/nodejs.png" alt="nodejs" width="50" height="50"/> </a>
+ <a href="https://nodejs.org" target="_blank"> <img src="images/nodejs.png" alt="nodejs" width="30" height="30"/> </a>
  </a><a href="https://www.djangoproject.com/" target="_blank"> <img src="images/django.png" alt="django" width="30" height="30"/> </a> 
- <a href="https://laravel.com" target="_blank"> <img src="images/laravel.png" alt="Laravel" width="30" height="30"/> 
+ <a href="https://laravel.com" target="_blank"> <img src="images/laravel.png" alt="Laravel" width="50" height="30"/> 
 </details>
 
 <!--
