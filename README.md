@@ -18,20 +18,20 @@
 
 <details>	
   <summary><b>Frontend Development</b></summary>
-  <a href="https://angular.io" target="_blank"><img src="images/angular.png" alt="angularjs" width="30" height="30"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="images/bootstrap.png" alt="bootstrap" width="30" height="30"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="images/css.png" alt="css3" width="30" height="30"/> </a><a href="https://www.w3.org/html/" target="_blank"> <img src="images/html.png" alt="html5" width="30" height="30"/> </a>  
+  <a href="https://angular.io" target="_blank"><img src="images/angular.png" alt="angularjs" width="50" height="50"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="images/bootstrap.png" alt="bootstrap" width="50" height="50"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="images/css.png" alt="css3" width="50" height="50"/> </a><a href="https://www.w3.org/html/" target="_blank"> <img src="images/html.png" alt="html5" width="50" height="50"/> </a>  
 </details>
 
 <details>
  <summary><b>Backend Development</b></summary>
- <a href="https://nodejs.org" target="_blank"> <img src="images/nodejs.png" alt="nodejs" width="50" height="30"/> </a>
- </a><a href="https://www.djangoproject.com/" target="_blank"> <img src="images/django.png" alt="django" width="50" height="30"/> </a> 
- <a href="https://laravel.com" target="_blank"> <img src="images/laravel.jpg" alt="Laravel" width="50" height="30"/> 
-  <a href="https://www.mysql.com/" target="_blank"> <img src="images/mysql.png" alt="mysql" width="40" height="30"/></a>
+ <a href="https://nodejs.org" target="_blank"> <img src="images/nodejs.png" alt="nodejs" width="50" height="50"/> </a>
+ </a><a href="https://www.djangoproject.com/" target="_blank"> <img src="images/django.png" alt="django" width="50" height="50"/> </a> 
+ <a href="https://laravel.com" target="_blank"> <img src="images/laravel.jpg" alt="Laravel" width="50" height="50"/> 
+  <a href="https://www.mysql.com/" target="_blank"> <img src="images/mysql.png" alt="mysql" width="50" height="50"/></a>
 </details>
 
 <details>	
   <summary><b>Others</b></summary>
-  <a href="https://git-scm.com/" target="_blank"> <img src="images/git.png" alt="git" width="30" height="30"/> </a>  <a href="https://www.linux.org/" target="_blank"> <img src="images/kali.png" alt="linux" width="30" height="30"/> </a><a href="https://www.aws.com" target="_blank"><img src="images/aws.jpg" alt="php" width="50" height="30"/> </a> <a href="https://heroku.com" target="_blank"> <img src="images/heroku.png" alt="heroku" width="30" height="30"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="images/git.png" alt="git" width="50" height="50"/> </a>  <a href="https://www.linux.org/" target="_blank"> <img src="images/kali.png" alt="linux" width="50" height="50"/> </a><a href="https://www.aws.com" target="_blank"><img src="images/aws.jpg" alt="php" width="50" height="50"/> </a> <a href="https://heroku.com" target="_blank"> <img src="images/heroku.png" alt="heroku" width="50" height="50"/> </a>
 </details> 
  
 <!--
