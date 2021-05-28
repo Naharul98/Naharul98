@@ -10,7 +10,7 @@
 
 <details>
  <summary><b>Programming Languages</b></summary>
- <a href="https://www.python.org" target="_blank"> <img src="images/python.png" alt="python" width="30" height="30"/> </a>
+ <a href="https://www.python.org" target="_blank"> <img src="images/python.png" alt="python" width="50" height="50"/> </a>
  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="images/typescript.png" alt="typescript" width="30" height="30"/> 
  <a href="https://www.java.com/" target="_blank"> <img src="images/java.png" alt="java" width="30" height="30"/> 
  </a><a href="https://www.php.net" target="_blank"><img src="images/php.png" alt="php" width="30" height="30"/> </a> 
