@@ -5,7 +5,8 @@
 <a href="mailto:naharulhayat@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail.com" target="_blank"></a>
 <a href="https://www.instagram.com/naharul2/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram.com" target="_blank"></a>
 
-### Tech Stack
+
+<h3> 🛠 &nbsp;My Tech Stack</h3>
 
 <details>
  <summary><b>Programming Languages</b></summary>
