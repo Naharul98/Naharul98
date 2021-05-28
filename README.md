@@ -29,6 +29,13 @@
   <a href="https://www.mysql.com/" target="_blank"> <img src="images/mysql.png" alt="mysql" width="40" height="30"/></a>
 </details>
 
+<details>	
+  <summary><b>Others</b></summary>
+  <a href="https://git-scm.com/" target="_blank"> <img src="images/git.png" alt="git" width="30" height="30"/> </a>  <a href="https://www.linux.org/" target="_blank"> <img src="images/kali.png" alt="linux" width="30" height="30"/> 
+ 
+ </a><a href="https://www.aws.com" target="_blank"><img src="images/aws.jpg" alt="php" width="30" height="30"/> </a> 
+</details> 
+ 
 <!--
 **Naharul98/Naharul98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
