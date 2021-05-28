@@ -4,7 +4,7 @@
 <a href="mailto:naharulhayat@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" target="_blank"></a>
 
 
-### 💬 About me 
+💬 About me:
 
 I prefer to write verbose code. Don't get me wrong, I do appreciate elegant and concise code, however, I like to break down a problem and solve it in small chunks, which often results in verbose code.
 
@@ -12,9 +12,6 @@ I don't shy away from using long self-explanatory variable names. Unless it's an
 
 I promise I don't like leaving code unattended. 
 
-
-
-### 📫 How to reach me:
 
 
 <!--
