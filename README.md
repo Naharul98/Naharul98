@@ -5,35 +5,6 @@
 <a href="mailto:naharulhayat@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" target="_blank"></a>
 <a href="https://www.instagram.com/naharul2/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" target="_blank"></a>
 
-
-<h3> 🛠 &nbsp;My Tech Stack</h3>
-
-<details>
- <summary><b>Programming Languages</b></summary>
- <a href="https://www.python.org" target="_blank"> <img src="images/python.png" alt="python" width="50" height="50"/> </a>
- <a href="https://www.typescriptlang.org/" target="_blank"> <img src="images/typescript.png" alt="typescript" width="50" height="50"/> 
- <a href="https://www.java.com/" target="_blank"> <img src="images/java.png" alt="java" width="50" height="50"/> 
- </a><a href="https://www.php.net" target="_blank"><img src="images/php.png" alt="php" width="50" height="50"/> </a> 
-</details>
-
-<details>	
-  <summary><b>Frontend Development</b></summary>
-  <a href="https://angular.io" target="_blank"><img src="images/angular.png" alt="angularjs" width="50" height="50"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="images/bootstrap.png" alt="bootstrap" width="50" height="50"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="images/css.png" alt="css3" width="50" height="50"/> </a><a href="https://www.w3.org/html/" target="_blank"> <img src="images/html.png" alt="html5" width="50" height="50"/> </a>  
-</details>
-
-<details>
- <summary><b>Backend Development</b></summary>
- <a href="https://nodejs.org" target="_blank"> <img src="images/nodejs.png" alt="nodejs" width="50" height="50"/> </a>
- </a><a href="https://www.djangoproject.com/" target="_blank"> <img src="images/django.png" alt="django" width="50" height="50"/> </a> 
- <a href="https://laravel.com" target="_blank"> <img src="images/laravel.jpg" alt="Laravel" width="50" height="50"/> 
-  <a href="https://www.mysql.com/" target="_blank"> <img src="images/mysql.png" alt="mysql" width="50" height="50"/></a>
-</details>
-
-<details>	
-  <summary><b>Others</b></summary>
-  <a href="https://git-scm.com/" target="_blank"> <img src="images/git.png" alt="git" width="50" height="50"/> </a>  <a href="https://www.linux.org/" target="_blank"> <img src="images/kali.png" alt="linux" width="50" height="50"/> </a><a href="https://www.aws.com" target="_blank"><img src="images/aws.jpg" alt="php" width="50" height="50"/> </a> <a href="https://heroku.com" target="_blank"> <img src="images/heroku.png" alt="heroku" width="50" height="50"/> </a>
-</details> 
- 
 <!--
 **Naharul98/Naharul98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
