@@ -9,7 +9,6 @@ I don't shy away from using long self-explanatory variable names. Unless it's an
 
 I promise I don't like leaving code unattended! :blush:
 
-⚡ Fun fact: I find recursive solutions elegant, however, I 
 
 <!--
 **Naharul98/Naharul98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
