@@ -26,7 +26,7 @@
  <a href="https://nodejs.org" target="_blank"> <img src="images/nodejs.png" alt="nodejs" width="50" height="30"/> </a>
  </a><a href="https://www.djangoproject.com/" target="_blank"> <img src="images/django.png" alt="django" width="50" height="30"/> </a> 
  <a href="https://laravel.com" target="_blank"> <img src="images/laravel.jpg" alt="Laravel" width="50" height="30"/> 
-  <a href="https://www.mysql.com/" target="_blank"> <img src="images/mysql.png" alt="mysql" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"> <img src="images/mysql.png" alt="mysql" width="40" height="30"/></a>
 </details>
 
 <!--
