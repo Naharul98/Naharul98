@@ -3,7 +3,12 @@
 
 <a href="https://www.linkedin.com/in/naharul-h-808201138/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="Linkedin" target="_blank"></a>
 <a href="mailto:naharulhayat@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" target="_blank"></a>
-<a href="https://www.instagram.com/naharul2/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" target="_blank"></a>
+
+
+I prefer to write verbose code and don't shy away from using long self-explanatory variable names. Unless it's an experimental R&D project. Then I'd use x, y z until I am certain the program even works. I promise I don't like leaving code unattended.
+
+Overtime, I have learned to appreciate elegant and concise code, expecially recursive ones. 
+
 
 <!--
 **Naharul98/Naharul98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
