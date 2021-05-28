@@ -9,7 +9,7 @@ I don't shy away from using long self-explanatory variable names. Unless it's an
 
 I promise I don't like leaving code unattended. 
 
-⚡ Fun fact: I enjoy simulating recursion using stack
+⚡ Fun fact: I enjoy simulating recursion using stack, but don't get me wrong. I do find recursive solutions elegant.
 
 <!--
 **Naharul98/Naharul98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
