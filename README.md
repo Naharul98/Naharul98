@@ -7,7 +7,7 @@ I prefer to write verbose code. Don't get me wrong, I do appreciate elegant and 
 
 I don't shy away from using long self-explanatory variable names. Unless it's an experimental R&D project. Then I'd use x and y until I am certain the program even works. 
 
-I promise I don't like leaving code unattended. 
+I promise I don't like leaving code unattended!
 
 ⚡ Fun fact: I enjoy simulating recursion using stack, but don't get me wrong. I do find recursive solutions elegant.
 
