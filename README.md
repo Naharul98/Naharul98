@@ -1,5 +1,7 @@
 ### Hi there :wave::smiley:, I am Naharul
 
+<a href="https://www.linkedin.com/in/naharul-h-808201138/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="Linkedin" target="_blank"></a>
+<a href="mailto:naharulhayat@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" target="_blank"></a>
 
 
 ### 💬 About me 
@@ -14,8 +16,7 @@ I promise I don't like leaving code unattended.
 
 ### 📫 How to reach me:
 
-<a href="https://www.linkedin.com/in/naharul-h-808201138/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="Linkedin" target="_blank"></a>
-<a href="mailto:naharulhayat@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" target="_blank"></a>
+
 <!--
 **Naharul98/Naharul98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
