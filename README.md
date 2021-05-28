@@ -21,9 +21,11 @@
   <a href="https://angular.io" target="_blank"><img src="images/angular.png" alt="angularjs" width="30" height="30"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="images/bootstrap.png" alt="bootstrap" width="30" height="30"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="images/css.png" alt="css3" width="30" height="30"/> </a><a href="https://www.w3.org/html/" target="_blank"> <img src="images/html.png" alt="html5" width="30" height="30"/> </a>  
 </details>
 
-<details>	
-  <summary><b>Mobile App Developement (beginner)</b></summary>
-  <a href="https://flutter.dev" target="_blank"> <img src="images/flutter.png" alt="flutter" width="30" height="30"/></a><i></i>
+<details>
+ <summary><b>Backend Development</b></summary>
+ <a href="https://nodejs.org" target="_blank"> <img src="images/nodejs.png" alt="nodejs" width="50" height="50"/> </a>
+ </a><a href="https://www.djangoproject.com/" target="_blank"> <img src="images/django.png" alt="django" width="30" height="30"/> </a> 
+ <a href="https://laravel.com" target="_blank"> <img src="images/laravel.png" alt="Laravel" width="30" height="30"/> 
 </details>
 
 <!--
