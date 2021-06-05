@@ -3,9 +3,9 @@
 <a href="https://www.linkedin.com/in/naharul-h-808201138/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="Linkedin" target="_blank"></a>
 <a href="mailto:naharulhayat@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" target="_blank"></a>
 
-I prefer to write verbose code. Don't get me wrong, I do appreciate concise one-liner code, however, I like to break down a problem and solve it in small chunks, which often results in verbose code. Its easier to debug as well! ⚡
+I prefer to write verbose code. Don't get me wrong, I do appreciate concise one-liner code, however, I like to break down a problem and solve it in small chunks, which often results in verbose code.
 
-I don't shy away from using long self-explanatory variable names. Unless it's an experimental R&D project. Then I'd use x and y until I am certain the program even works. 
+I also don't shy away from using long self-explanatory variable names. Unless it's an experimental R&D project. Then I'd use x and y until I am certain the program even works. 
 
 I promise I don't like leaving code unattended! :blush:
 
